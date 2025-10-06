@@ -184,10 +184,13 @@ Change hostname and install Git:
 ```bash
 sudo hostnamectl set-hostname git
 sudo yum install git -y
-![alt text](image-25.png)
-git --version
-![alt text](image-26.png)
 ```
+![alt text](image-25.png)
+```bash
+git --version
+```
+![alt text](image-26.png)
+
 
 
 ##  Repository Information
