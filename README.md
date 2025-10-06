@@ -204,8 +204,8 @@ git --version
 
 If you have questions or face any issues, feel free to reach out:
 
-* Email: **[kunalshinde043@gmail.com](mailto:kunalshinde043@gmail.com)**
-* LinkedIn: [Kunal Shinde](https://www.linkedin.com/in/kunalshinde043)
+* Email: **[kunalshinde043@gmail.com](mailto:kunalshinde066@gmail.com)**
+* LinkedIn: [Kunal Shinde](https://www.linkedin.com/in/kunal-shinde-1b17a2205/)
 
 ---
 
